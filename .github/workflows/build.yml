@@ -1,0 +1,6 @@
+name: build application
+
+on:
+  push:
+    branches:
+      - main

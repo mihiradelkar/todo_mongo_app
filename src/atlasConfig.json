@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-jgozg",
+    "appUrl": "https://services.cloud.mongodb.com/groups/61553b151399921f99d0513f/apps/65ea21105f16c710e93d71bc",
+    "baseUrl": "https://services.cloud.mongodb.com",
+    "clientApiBaseUrl": "https://us-east-1.aws.services.cloud.mongodb.com",
+    "dataApiBaseUrl": "https://us-east-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/61553b151399921f99d0513f/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
